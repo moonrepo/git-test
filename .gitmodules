@@ -1,0 +1,6 @@
+[submodule "submodules/poly"]
+	path = submodules/poly
+	url = https://github.com/moonrepo/git-poly-test.git
+[submodule "submodules/mono"]
+	path = submodules/mono
+	url = https://github.com/moonrepo/git-mono-test.git

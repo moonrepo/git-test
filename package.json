@@ -1,0 +1,6 @@
+{
+  "name": "git-test-root",
+  "workspaces": [
+    "projects/*"
+  ]
+}

@@ -1,0 +1,6 @@
+id: "git-subtree-test"
+language: "bash"
+
+tasks:
+  run:
+    command: "bash script.sh"

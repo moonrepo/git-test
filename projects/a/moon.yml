@@ -1,0 +1,3 @@
+dependsOn:
+  - "git-mono-test-a"
+  - "git-mono-test-c"

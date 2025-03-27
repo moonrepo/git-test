@@ -5,3 +5,4 @@ projects:
   - "projects/*"
   - "submodules/mono/packages/*"
   - "submodules/poly"
+  - "subtrees/one"
